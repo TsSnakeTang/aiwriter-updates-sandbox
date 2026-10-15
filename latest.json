@@ -1,0 +1,11 @@
+{
+  "version": "0.1.26",
+  "notes": "AIwriter MiniMax 桌面端 0.1.26\n\n· 构建：https://github.com/TsSnakeTang/AIwriter_MiniMax/actions/runs/local\n· 更新通道：https://github.com/TsSnakeTang/aiwriter-updates-sandbox/releases\n· 校验：自动更新签名（minisign/Ed25519，pubkey 随客户端内置）",
+  "pub_date": "2026-10-15T06:55:34Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVmU4cVZ4bDBhOVpiNS9mWVhOQ3FqcG9wMGcvSnZESTJxNDZGd0E0ei8xZG5XM015SVRlOVNUYStFbVpoTk1qN2RnVFZERko2WWhSeGlFb1p5LzZTMVk1UG52ZzJRU2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzk0ODg0CWZpbGU6QUl3cml0ZXIgTWluaU1heF8wLjEuMjZfeDY0LXNldHVwLmV4ZQpFaDlWbWxMMTMzSm5Jc2U1RTZvQUJBRkdudm85NHhoTmNYL2VWVTZtbmw3TmMzMzdTMzV5TnNRYkdlQnNhYUxHMTdEYXdVSGJ5U3RVOHVtTDlTZ2VCdz09Cg==",
+      "url": "https://github.com/TsSnakeTang/aiwriter-updates-sandbox/releases/download/v0.1.26/AIwriter.MiniMax_0.1.26_x64-setup.exe"
+    }
+  }
+}
